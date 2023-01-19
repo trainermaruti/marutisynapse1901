@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--marutisecuresynapse45",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/60d14b42-62c8-48d6-9772-97f21e841e5c/resourceGroups/Day4RG/providers/Microsoft.Synapse/workspaces/marutisecuresynapse45",
+		"groupId": "sql",
+		"fqdns": [
+			"marutisecuresynapse45.672595c8-6e2c-4d4d-acd0-967f49b784e3.sql.azuresynapse.net"
+		]
+	}
+}

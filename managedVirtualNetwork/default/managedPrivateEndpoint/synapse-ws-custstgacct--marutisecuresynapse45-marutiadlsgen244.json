@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--marutisecuresynapse45-marutiadlsgen244",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/60d14b42-62c8-48d6-9772-97f21e841e5c/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/marutiadlsgen244",
+		"groupId": "dfs"
+	}
+}
